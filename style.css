@@ -19,6 +19,7 @@
     background-color: rgb(162, 95, 221);
     border-radius: 100%;
     margin: 10px;
+    border: 2px solid black;
 }
 .verde{
     width: 100vw;
@@ -31,6 +32,7 @@
     background-color: green;
     border-radius: 100%;
     margin: 10px;
+    border: 2px solid black;
 }
 .vermelho{
     width: 100vw;
@@ -43,6 +45,7 @@
     background-color: rgb(134, 27, 27);
     border-radius: 100%;
     margin: 10px;
+    border: 2px solid black;
 }
 .amarelo{
     width: 100vw;
@@ -55,6 +58,7 @@
     background-color: rgb(226, 226, 16);
     border-radius: 100%;
     margin: 10px;
+    border: 2px solid black;
 }
 .azul{
     width: 100vw;
@@ -67,4 +71,5 @@
     background-color: blue;
     border-radius: 100%;
     margin: 10px;
+    border: 2px solid black;
 }
