@@ -9,22 +9,26 @@
     flex-direction: column;
 }
 .lilas{
-    width: 100vw;
-    height: 200px;
+    width: 2560px;
+    height: 250px;
     background-color: plum;    
+    justify-content: end;
+    align-items: flex-end;
+    gap: 5px;
 }
 .lilas div{
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 100px;
     background-color: rgb(162, 95, 221);
     border-radius: 100%;
     margin: 10px;
     border: 2px solid black;
 }
 .verde{
-    width: 100vw;
-    height: 200px;
+    width: 2560px;
+    height: 250px;
     background-color: greenyellow;
+    gap: 5px;
 }
 .verde div{
     width: 80px;
@@ -35,9 +39,10 @@
     border: 2px solid black;
 }
 .vermelho{
-    width: 100vw;
-    height: 200px;
+    width: 2560px;
+    height: 250px;
     background-color: tomato;
+    gap: 5px;
 }
 .vermelho div{
     width: 80px;
@@ -48,9 +53,10 @@
     border: 2px solid black;
 }
 .amarelo{
-    width: 100vw;
-    height: 200px;
+    width: 2560px;
+    height: 250px;
     background-color: yellow;
+    gap: 5px;
 }
 .amarelo div{
     width: 80px;
@@ -61,9 +67,10 @@
     border: 2px solid black;
 }
 .azul{
-    width: 100vw;
-    height: 200px;
+    width: 2560px;
+    height: 250px;
     background-color: cornflowerblue;
+    gap: 5px;
 }
 .azul div{
     width: 80px;
