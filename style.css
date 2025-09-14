@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    display: flex;
+    justify-content:center;
+}
+.conteinerLilas{
+    width: 100vw;
+    height: 200px;
+    background-color: plum;
+}
+.lilas div{
+    border: 2px solid black;
+    height: 200px;
+    background-color: rgb(190, 171, 209);
+    display: flex;
+    align-items: self-end;
+    justify-content: end;
+    
+}
+.conteinerVerde{
+    width: 100vw;
+    height: 200px;
+    background-color: greenyellow;
+}
+
+.conteinerVermelho{
+    width: 100vw;
+    height: 200px;
+    background-color: tomato;
+}
+.conteinerAmarelo{
+       width: 100vw;
+    height: 200px;
+    background-color: yellow;
+}
+.conteinerAzul{
+    width: 100vw;
+    height: 200px;
+    background-color: cornflowerblue;
+}
