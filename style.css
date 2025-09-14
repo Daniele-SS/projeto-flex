@@ -12,9 +12,9 @@
     width: 2560px;
     height: 250px;
     background-color: plum;    
-    justify-content: end;
-    align-items: flex-end;
     gap: 5px;
+    display: flex;
+
 }
 .lilas div{
     width: 100px;
@@ -29,6 +29,7 @@
     height: 250px;
     background-color: greenyellow;
     gap: 5px;
+    display: flex;
 }
 .verde div{
     width: 100px;
@@ -43,6 +44,7 @@
     height: 250px;
     background-color: tomato;
     gap: 5px;
+    display: flex;
 }
 .vermelho div{
     width: 100px;
