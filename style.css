@@ -31,8 +31,8 @@
     gap: 5px;
 }
 .verde div{
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 100px;
     background-color: green;
     border-radius: 100%;
     margin: 10px;
@@ -45,8 +45,8 @@
     gap: 5px;
 }
 .vermelho div{
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 100px;
     background-color: rgb(134, 27, 27);
     border-radius: 100%;
     margin: 10px;
@@ -59,8 +59,8 @@
     gap: 5px;
 }
 .amarelo div{
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 100px;
     background-color: rgb(226, 226, 16);
     border-radius: 100%;
     margin: 10px;
@@ -73,8 +73,8 @@
     gap: 5px;
 }
 .azul div{
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 100px;
     background-color: blue;
     border-radius: 100%;
     margin: 10px;
