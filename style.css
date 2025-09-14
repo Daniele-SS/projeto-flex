@@ -40,7 +40,7 @@
 .vermelho div{
     width: 80px;
     height: 80px;
-    background-color: red;
+    background-color: rgb(134, 27, 27);
     border-radius: 100%;
     margin: 10px;
 }
