@@ -57,6 +57,8 @@
     height: 250px;
     background-color: yellow;
     gap: 5px;
+    display: flex;
+    justify-content: space-evenly;
 }
 .amarelo div{
     width: 100px;
@@ -71,6 +73,8 @@
     height: 250px;
     background-color: cornflowerblue;
     gap: 5px;
+    display:flex;
+    justify-content: space-evenly;
 }
 .azul div{
     width: 100px;
